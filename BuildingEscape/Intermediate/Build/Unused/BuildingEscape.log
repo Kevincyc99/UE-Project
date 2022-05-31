@@ -1,0 +1,12 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (G:\UE Project\UnrealCourse\Section_03).
+  Building BuildingEscapeEditor...
+  Using Visual Studio 2022 14.31.31107 toolchain (G:\VS\VisualStudio\2022\VC\Tools\MSVC\14.31.31103) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] OpenDoor.cpp
+    [2/4] UE4Editor-BuildingEscape-0010.lib
+      正在创建库 G:\UE Project\UnrealCourse\Section_03\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0010.lib 和对象 G:\UE Project\UnrealCourse\Section_03\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0010.exp
+    [3/4] UE4Editor-BuildingEscape-0010.dll
+      正在创建库 G:\UE Project\UnrealCourse\Section_03\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0010.suppressed.lib 和对象 G:\UE Project\UnrealCourse\Section_03\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-0010.suppressed.exp
+    [4/4] BuildingEscapeEditor.target
+  Total time in Parallel executor: 1.62 seconds
+  Total execution time: 2.31 seconds

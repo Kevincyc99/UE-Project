@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\UE Project\\UnrealCourse\\Section_03\\BuildingEscape\\Source\\BuildingEscape\\BuildingEscape.Build.cs",
+		"G:\\UE Project\\UnrealCourse\\Section_03\\BuildingEscape\\Source\\BuildingEscape.Target.cs",
+		"G:\\UE Project\\UnrealCourse\\Section_03\\BuildingEscape\\Source\\BuildingEscapeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
